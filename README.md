@@ -1,4 +1,4 @@
 # hello-world
 Something something 
 
-Hello my servents!!
+Hello my servants!!
